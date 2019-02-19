@@ -1,4 +1,4 @@
-Doctsat React App
+Basic React App
 
 *NODE Version should be v10.2.1*
 
